@@ -42,7 +42,11 @@
   <div align="left">
     <p>🔭 I’m currently working on <b><i>personal development</i></b> 🚀!</li>
     <p>🌱 I’m currently learning <b>NextJS, Spring Boot, Typescript and AWS</b>.</li>
-    <p>📫 How to reach me: <b><a href="mailto:ezmichaely@gmail.com">ezmichaely@gmail.com</a></b></li>
+    <p>📫 How to reach me: </p>
+    <a href="mailto:ezmichaely@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+<!--     <b><a href="mailto:ezmichaely@gmail.com">ezmichaely@gmail.com</a></b> -->
     <!--
     <div>
       <a href="https://www.facebook.com/ezmichaely">
