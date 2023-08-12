@@ -1,4 +1,4 @@
-<!-- END OF BANNER -->
+<!-- BANNER -->
 <div align="center">
   <img src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e476kgka92ya10siecshq2kr52i95992pd3o2y170bi&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 </div>
@@ -173,15 +173,31 @@
   <!-- GIT -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
+  </a>
+  <!-- GITHUB DESKTOP -->
+  <a href="https://desktop.github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://desktop.github.com/images/desktop-icon.svg" alt="github desktop" width="30" height="30"/> 
   </a> 
   <!-- POSTMAN -->
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> 
   </a> 
   <!-- SLACK -->
-  <!-- <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> 
+<!--   <a href="https://slack.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="30" height="30"/> 
   </a>  -->
+  <!-- FIGMA -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> 
+  </a>
+  <!-- Photoshop -->
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="30" height="30"/> 
+  </a>
+  <!-- Illustrator -->
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="illustrator" width="30" height="30"/> 
+  </a> 
 </details>
 <!-- STATS -->
 <details open> 
