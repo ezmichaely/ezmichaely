@@ -37,9 +37,26 @@
 <!-- END OF BADGES -->
 </br>
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<div align="left">
-  <p>🔭 I’m currently working on <b><i>personal development</i></b> 🚀!</li>
-  <p>🌱 I’m currently learning <b>NextJS, Spring Boot, Typescript and AWS</b>.</li>
-  <p>📫 How to reach me: <b><a href="mailto:ezmichaely@gmail.com">ezmichaely@gmail.com</a></b></li>
-</ul>
+<div>
+  <img align="right" alt="Coding" width="200" src="https://github.com/ezmichaely/ezmichaely/blob/main/profile.png?raw=true">
+  <div align="left">
+    <p>🔭 I’m currently working on <b><i>personal development</i></b> 🚀!</li>
+    <p>🌱 I’m currently learning <b>NextJS, Spring Boot, Typescript and AWS</b>.</li>
+    <p>📫 How to reach me: <b><a href="mailto:ezmichaely@gmail.com">ezmichaely@gmail.com</a></b></li>
+    <!--
+    <div>
+      <a href="https://www.facebook.com/ezmichaely">
+      <img alt="total stars" title="Facebook link" style="border: 1px solid #fff"
+        src="https://img.shields.io/badge/FACEBOOK-1773EA&logo=facebook&style=for-the-badge&labelColor=C213EE&logo=person-add"/>
+      </a>
+    </div> -->
+  </div>
+</div>
+
+### 📈 𝑆𝑡𝑎𝑡𝑠
+<div>
+  <img height="200px" 
+    src="https://github-readme-stats.vercel.app/api?username=ezmichaely&show_icons=true&include_all_commits=true&theme=jolly">
+  <img height="200px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezmichaely&layout=compact&theme=jolly&hide=css,html&langs_count=8">
+</div>
