@@ -53,10 +53,14 @@
   </div>
 </div>
 
-### 📈 𝑆𝑡𝑎𝑡𝑠
-<div>
-  <img height="200px" 
-    src="https://github-readme-stats.vercel.app/api?username=ezmichaely&show_icons=true&include_all_commits=true&theme=jolly">
-  <img height="200px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezmichaely&layout=compact&theme=jolly&hide=css,html&langs_count=8">
-</div>
+</br></br>
+
+<details open> 
+  <summary><h2>📈 𝑆𝑡𝑎𝑡𝑠</h2></summary>
+  <div>
+    <img height="200px" 
+      src="https://github-readme-stats.vercel.app/api?username=ezmichaely&show_icons=true&include_all_commits=true&theme=jolly">
+    <img height="200px" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezmichaely&layout=compact&theme=jolly&hide=css,html&langs_count=8">
+  </div>
+</details>
