@@ -40,7 +40,7 @@
   </h1>
   <!-- TYPING TEXT -->
   <p align="center" style="display: flex; gap: 2px; justify-content: center; align-items: center">
-    <img alt="Typing SVG" title="Typing SVG"
+    <img alt="Typing SVG" title="A Front-End Developer"
       src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&pause=1000&color=C213EE&center=true&vCenter=true&width=400&lines=✨&nbsp;&nbsp;&nbsp;+A+Front-End+Developer+!+&nbsp;&nbsp;&nbsp;✨" />
   </p>
   <!-- END OF TYPING TEXT -->
