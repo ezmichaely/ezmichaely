@@ -30,7 +30,7 @@
     <!-- Latest commit -->
     <a href="https://github.com/ezmichaely?#js-contribution-activity">
       <img alt="last commit" title="Last commit" style="border: 1px solid #fff"
-      src="https://custom-icon-badges.demolab.com/github/last-commit/ezmichaely/ezmichaely?color=4C16BF&style=for-the-badge&label=LAST%20COMMENT&labelColor=C213EE&logo=history"        />
+      src="https://custom-icon-badges.demolab.com/github/last-commit/ezmichaely/ezmichaely?color=4C16BF&style=for-the-badge&label=LAST%20COMMENT&labelColor=C213EE&logo=history" />
     </a>
   </div> 
   <!-- SECOND LINE -->
