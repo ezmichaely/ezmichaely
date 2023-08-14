@@ -158,16 +158,16 @@
     <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql" width="40" height="30"/> 
   </a>
   <!-- mongodb -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="18" height="35"/> 
   </a>
   <!-- aws-dynamodb -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="aws-dynamodb" width="30" height="30"/> 
   </a> </br>
   <!-- VSCODE -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="postman" width="30" height="30"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="30" height="30"/> 
   </a> 
   <!-- GIT -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
