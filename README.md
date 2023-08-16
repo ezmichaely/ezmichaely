@@ -102,17 +102,17 @@
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="30" height="30"/> 
   </a>
   <!-- SVELT -->
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="svelte" width="30" height="30"/> 
-  </a>
+  </a> -->
   <!-- NEXT JS -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="30" height="30"/> 
   </a> 
   <!-- VITE JS -->
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vitejs" width="30" height="30"/> 
-  </a> 
+  </a>  -->
   <!-- NODE JS -->
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs" width="30" height="30"/> 
@@ -130,9 +130,9 @@
     <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cpp" width="30" height="30"/> 
   </a>
   <!-- JAVA -->
-  <a href="https://dev.java/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://dev.java/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="java" width="24" height="30"/> 
-  </a> 
+  </a>  -->
   <!-- PHP -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" height="30"/> 
@@ -142,9 +142,9 @@
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="30" height="30"/> 
   </a>
   <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="30" height="30"/> 
-  </a>
+  </a> -->
   <!-- XAMPP -->
   <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xampp" width="30" height="30"/> 
@@ -162,9 +162,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="18" height="35"/> 
   </a>
   <!-- aws-dynamodb -->
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="aws-dynamodb" width="30" height="30"/> 
-  </a> </br>
+  </a> -->
+</br>
   <!-- VSCODE -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="30" height="30"/> 
