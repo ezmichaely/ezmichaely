@@ -114,9 +114,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vitejs" width="30" height="30"/> 
   </a>  -->
   <!-- NODE JS -->
+<!--
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs" width="30" height="30"/> 
-  </a> 
+  </a> -->
   <!-- JQUERY -->
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="jquery" width="110" height="30"/> 
@@ -150,9 +151,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xampp" width="30" height="30"/> 
   </a>
   <!-- MariaDB -->
+<!--
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="mariadb" width="50" height="30"/> 
-  </a>
+   </a> -->
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql" width="40" height="30"/> 
