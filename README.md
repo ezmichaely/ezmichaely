@@ -52,7 +52,7 @@
   <img align="right" alt="Coding" width="200" src="https://github.com/ezmichaely/ezmichaely/blob/main/profile.png?raw=true">
   <div align="left">
     <p>🔭 I’m currently working on 🚀<b><i>IMPROVING MY DEVELOPMENT SKILLS!</i></b></li>
-    <p>🌱 Learning in <b>NextJS, Spring Boot, Typescript and AWS</b>.</li>
+    <p>🌱 Learning in <b>React JS, NextJS, and Typescript</b>.</li>
     <p>📫 How to reach me: </p>
     <!-- gmail -->
     <a href="mailto:ezmichaely@gmail.com" target="_blank">
