@@ -65,9 +65,9 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <!-- facebook -->
-    <a href="https://www.facebook.com/ezmichaely" target="_blank">
+<!--     <a href="https://www.facebook.com/ezmichaely" target="_blank">
       <img src="https://img.shields.io/badge/FACEBOOK-1773EA?style=for-the-badge&logo=facebook&logoColor=white">
-    </a>
+    </a> -->
   </div>
 </div>
 <!-- END OF ABOUT ME -->
