@@ -37,8 +37,8 @@
   </br>
   <h1 align="center">
 <!--     Hi There 👋, I'm $${\color{#E54983}𝐄𝐙 \space 𝐌𝐈𝐂𝐇𝐀𝐄𝐋 \space 𝐘𝐔𝐂𝐎𝐑}$$ -->
-    Hi There 👋, <br/>
-    I'm 𝐄𝐙 𝐌𝐈𝐂𝐇𝐀𝐄𝐋 𝐘𝐔𝐂𝐎𝐑
+    Hi There 👋, I'm <br/>
+    𝐄𝐙 𝐌𝐈𝐂𝐇𝐀𝐄𝐋 𝐘𝐔𝐂𝐎𝐑
   </h1>
   <!-- TYPING TEXT -->
   <p align="center" style="display: flex; gap: 2px; justify-content: center; align-items: center">
