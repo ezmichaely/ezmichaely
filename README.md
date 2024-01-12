@@ -74,8 +74,10 @@
 </br>
 
 <!-- STACKS USED -->
-<details> 
-  <summary><h3>👨🏻‍💻🧠 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 </h3></summary>
+<!-- <details> 
+  <summary> -->
+    <h3>👨🏻‍💻🧠 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 </h3>
+<!--   </summary> -->
   <!-- <h4>👌 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 </h4> -->
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -202,10 +204,12 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="illustrator" width="30" height="30"/> 
   </a> 
-</details>
+<!-- </details> -->
 <!-- STATS -->
-<details> 
-  <summary><h3>👨🏻‍💻📈 𝑺𝒕𝒂𝒕𝒔</h3></summary>
+<!-- <details> 
+  <summary> -->
+    <h3>👨🏻‍💻📈 𝑺𝒕𝒂𝒕𝒔</h3>
+<!--   </summary> -->
   <div>
     <!-- GENERAL STATS -->
     <img height="200px" 
@@ -217,4 +221,4 @@
     <img height="200px"
       src="https://streak-stats.demolab.com?user=ezmichaely&theme=jolly&mode=weekly" alt="GitHub Streak">
   </div>
-</details>
+<!-- </details> -->
