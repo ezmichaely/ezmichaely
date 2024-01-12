@@ -74,12 +74,13 @@
 </br>
 
 <!-- STACKS USED -->
-<!-- <details> 
-  <summary> -->
-    <h3>👨🏻‍💻🧠 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 </h3>
-<!--   </summary> -->
+<!-- <details> -->  
+ <!-- <summary> -->
+     
+<!-- </summary> -->
   <!-- <h4>👌 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 </h4> -->
   <!-- HTML -->
+ <h3>👨🏻‍💻🧠 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 </h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> 
   </a> 
