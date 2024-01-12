@@ -78,7 +78,7 @@
 <!-- https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev -->
 <h3>👨🏻‍💻🧠 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,scss,jquery,react,next,vite,ts,express,laravel,php,vscode,git,mysql,mongodb,firebase,md,postman,figma,ps,ai&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,scss,jquery,react,next,vite,ts,express,laravel,php,vscode,git,mysql,mongodb,firebase,md,postman,figma,ps,ai&perline=8)](https://skillicons.dev)
 
 <!-- cpp, -->
 <!-- STATS -->
