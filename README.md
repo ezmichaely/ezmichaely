@@ -9,10 +9,10 @@
   <!-- FIRST LINE -->
   <div align="center" style="display: flex; gap: 5px; justify-content: center">
     <!-- Profile Views -->
-    <a href="https://github.com/ezmichaely">
+<!--     <a href="https://github.com/ezmichaely">
       <img alt="views" title="Total visitor on GitHub" style="border: 1px solid #fff !important"
         src="https://vbr.wocr.tk/badge?page_id=ezmichaely&text=visitors&color=4C16BF&style=for-the-badge&lcolor=C213EE&logo=github" />
-    </a>
+    </a> -->
     <!-- Github Followers -->
     <a href="https://github.com/ezmichaely?tab=followers">
       <img alt="total stars" title="Total followers on GitHub" style="border: 1px solid #fff"
