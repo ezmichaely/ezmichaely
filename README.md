@@ -97,8 +97,9 @@
     <!-- STREAK STATS -->
     <img height="200px"
       src="https://streak-stats.demolab.com?user=ezmichaely&theme=jolly&mode=weekly" alt="GitHub Streak">
-    ![trophy](https://github-profile-trophy.vercel.app/?username=y00913&row=1&margin-h=15&theme=dracula)
+    
   </div>
+<!--   ![trophy](https://github-profile-trophy.vercel.app/?username=ezmichaely&row=1&margin-h=15&theme=dracula) -->
 <!-- </details> -->
 
 
